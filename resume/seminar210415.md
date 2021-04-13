@@ -25,6 +25,7 @@
     - MLA、APA、Chicago、Harvard、Vancouver
     - 例: 田所淳. "技術・製品スキル Web のポテンシャルを引き出す HTML5 (第 2 回) マークアップと Web デザイン 要素を 7 グループに分けて把握, 今後は div の乱用を避けよう." *日経 systems* 217 (2011): 93-97.
     - 参考文献の書き方 : https://www.bun.kyoto-u.ac.jp/2009gakusei-sien/researchinfo/paper_writing/ohura/references.pdf
+    - 引用文献リストを作ってみよう : https://www.dl.itc.u-tokyo.ac.jp/koshukai/inyo_201711.pdf
 - OPAC
   - 図書の検索
   - 前橋工科大学OPAC https://www01s.ufinity.jp/maebashi_it/?page_id=15
@@ -78,3 +79,14 @@ https://github.com/tado/seminar2021
    - Github Desktopを使用
    - CommitしてPush (Fetch)
    - Githubのサイト上に反映されるはず
+
+## 次週までの課題
+
+1. 自分の研究/制作テーマに関係のありそうな文献 (論文、書籍、Web記事) を調査
+2. Chicago形式で参考文献を記述
+3. 内容の要約
+4. その研究と自身の研究テーマとの関連
+
+できるだけ多く調べる。最低3つ!! 英語の論文だとさらに良い!!
+
+自家のゼミでそれぞれ発表してもらいます。
