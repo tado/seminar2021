@@ -26,6 +26,7 @@
     - 例: 田所淳. "技術・製品スキル Web のポテンシャルを引き出す HTML5 (第 2 回) マークアップと Web デザイン 要素を 7 グループに分けて把握, 今後は div の乱用を避けよう." *日経 systems* 217 (2011): 93-97.
     - 参考文献の書き方 : https://www.bun.kyoto-u.ac.jp/2009gakusei-sien/researchinfo/paper_writing/ohura/references.pdf
     - 引用文献リストを作ってみよう : https://www.dl.itc.u-tokyo.ac.jp/koshukai/inyo_201711.pdf
+    - 文献引用の方法について（2019年度版）: https://researchmap.jp/multidatabases/multidatabase_contents/download/238232/4736cd04e566837bf2a37e49df85d15f/1155?col_no=2&frame_id=773189
 - OPAC
   - 図書の検索
   - 前橋工科大学OPAC https://www01s.ufinity.jp/maebashi_it/?page_id=15
