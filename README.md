@@ -7,3 +7,7 @@
 - ゼミSlack https://tadokoroseminar2019.slack.com
 - yoppa.org https://yoppa.org/
 
+## ゼミ資料
+
+- [4月8日](./resume/seminar210408.md)
+- [4月15日](./resume/seminar210415.md)
