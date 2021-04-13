@@ -44,5 +44,37 @@
 
 - Slackは掲示板的な情報共有には便利だが、古い情報はどんどん流れていってしまう…
 - もっと情報を蓄積できる仕組みを使いたい
+- さらに、バージョン管理のスタンダードな仕組みを知って欲しい
 - 今期はGithubを利用してみます!
 
+### 田所ゼミ 2021 Githubリポジトリ
+
+https://github.com/tado/seminar2021
+
+### Github
+
+- https://github.com/
+- Gitというバージョン管理システムを使用したソースコードのホスティングサービス
+  - Git https://git-scm.com/
+  - 現在最もメジャーなオープンソースプロジェクトのホスティングサービス
+  - Linux、Rust、TensorFlow、Processing、p5.js、openFrameworks ...
+- ソースコードだけではなく、文書を載せていくことも可能
+  - Markdown形式で記述していく
+
+## 本日の作業
+
+1. Githubにユーザ登録
+   - 登録したユーザーをゼミのリポジトリのメンバーに追加します
+2. Github Desktopのインストール
+   - https://desktop.github.com/
+3. Markdown用テキストエディターのインストール
+   - Typora https://typora.io/
+   - VScode https://code.visualstudio.com/
+4. 田所ゼミリポジトリをClone
+   - Github Desktopを使った方法を説明します
+5. とりあえずMarkdownで文書を作ってみる
+   - Typoraを使って解説します
+6. Cloneしたリポジトリに追加してPush
+   - Github Desktopを使用
+   - CommitしてPush (Fetch)
+   - Githubのサイト上に反映されるはず
