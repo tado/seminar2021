@@ -19,6 +19,7 @@
 ### オンラインでサーベイ可能なサイト
 
 - Google Scholar
+  - https://scholar.google.com/
   - 論文検索に特化した検索、とても便利!!
   - 検索した結果をそのまま参考文献の形式で取得できる
     - MLA、APA、Chicago、Harvard、Vancouver
