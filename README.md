@@ -17,5 +17,5 @@
 
 ## ゼミ資料
 
-- [4月8日](./resume/seminar210408.md)
-- [4月15日](./resume/seminar210415.md)
+- [4月8日](./tadokoro/seminar210408.md)
+- [4月15日](./tadokoro/seminar210415.md)
