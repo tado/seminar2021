@@ -60,6 +60,7 @@ https://github.com/tado/seminar2021
   - Git https://git-scm.com/
   - 現在最もメジャーなオープンソースプロジェクトのホスティングサービス
   - Linux、Rust、TensorFlow、Processing、p5.js、openFrameworks ...
+  - 参考 : サル先生のGit入門 https://backlog.com/ja/git-tutorial/
 - ソースコードだけではなく、文書を載せていくことも可能
   - Markdown形式で記述していく
 
