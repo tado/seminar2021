@@ -37,3 +37,15 @@ VRを用いることでの利点を様々な視点から考察している。VR�
 **自身との関連**
 
 建築とVRの関連、また、VRが起こす生活の変化が記されている。VRである必要性やVRを用いることでの利点や問題点が書かれており、VRで再現することの意味や、考え方を補強できるのではないかと感じた。
+
+---
+
+T. P. Kersten, G. Büyüksalih, F. Tschirschwitz, T. Kan, S. Deggim, Y. Kaya, A. P. Baskaraca. *THE SELIMIYE MOSQUE OF EDIRNE, TURKEY – AN IMMERSIVE AND  INTERACTIVE VIRTUAL REALITY EXPERIENCE USING HTC VIVE.* The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Volume XLII-5/W1. 2017. PDF file.
+
+***概要***
+
+トルコ・エディルネ市のセリミエ・モスクの再現を行うプロジェクトが記されている。フォトグラメトリーとレーザースキャニングを用いて点群データを取得し、それをソリッドモデルに成形。そして、unityに実装しHTC VIVEで動かしている。制作までのワークフローが記されている。
+
+**自身との関連**
+
+このプロジェクトは、フォトグラメトリーからデータを取得し、モデルを制作しているので今後の制作の参考になるのではないかと思う。
