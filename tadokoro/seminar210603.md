@@ -26,6 +26,8 @@
 
 - [オリンパスからの資料 - 映像制作フロー](./dome_flow.pdf)
 
-#### TouchDesignerでのテスト
+#### プロトタイピング
 
-デモ
+- Amateras
+- TouchDesignerデモ
+- TouchDesigner → Amateras 連携
