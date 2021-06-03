@@ -28,6 +28,6 @@
 
 #### プロトタイピング
 
-- Amateras
+- Amateras Dome Player https://www.orihalcon.co.jp/amateras/domeplayer/
 - TouchDesignerデモ
 - TouchDesigner → Amateras 連携
