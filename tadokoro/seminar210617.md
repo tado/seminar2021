@@ -10,6 +10,8 @@
 
     ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Selimiye_Mosque%2C_Dome.jpg/1200px-Selimiye_Mosque%2C_Dome.jpg)
 
+  - 参考: [John Whitney- Arabesque (1975)](https://www.youtube.com/watch?v=sQrq7S0dP54)
+
 ### リサーチ
 
 - [Abdullahi, Yahya, and Mohamed Rashid Bin Embi. "Evolution of Islamic geometric patterns." *Frontiers of Architectural Research* 2.2 (2013): 243-251.](https://www.sciencedirect.com/science/article/pii/S2095263513000216) 
